@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  I Am Poor
 //
-//  Created by Angela Yu on 24/08/2016.
+//  Created by Melody Wen on 09/12/2018
 //
 //
 

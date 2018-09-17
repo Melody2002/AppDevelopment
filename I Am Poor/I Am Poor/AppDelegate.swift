@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  I Am Poor
 //
-//  Created by Angela Yu on 24/08/2016.
-//
 //
 
 import UIKit
